@@ -5,6 +5,11 @@ O projeto Batteries é o desenvolvimento de uma plataforma web que tem como obje
 
 Através da plataforma, os usuários podem cadastrar-se e ter acesso a um mapa interativo onde poderão visualizar pontos de coleta próximos à sua localização. Além disso, eles poderão registrar o descarte adequado de lixos e medicamentos, acumulando pontos e desbloqueando conquistas conforme realizam ações sustentáveis.
 
+## Projeto Front-end
+O projeto front-end para a plataforma Batteries é responsável por fornecer uma interface de usuário atraente e recursos interativos. Ele funciona em conjunto com a API de back-end para fornecer aos usuários uma experiência perfeita.
+
+Você pode acessar o código e a documentação do projeto front-end no GitHub: https://github.com/danielcorreia-dev/batteries-project.
+
 ## Setup
 
 ### Database 
@@ -21,3 +26,4 @@ Install .NET SDK 5, available at https://dotnet.microsoft.com/en-us/download/dot
 ## Running
 
 In Microsoft Visual Studio, press F5 (Debug) to start backend API.
+
