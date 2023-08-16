@@ -12,8 +12,7 @@ Você pode acessar o código e a documentação do projeto front-end no GitHub: 
 
 ## Tecnologias Utilizadas
 
-### B 
-
+### Banco de dados 
 
 Instale PostgreSQL, disponível em https://www.postgresql.org/download.
 
