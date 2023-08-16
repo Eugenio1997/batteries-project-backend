@@ -10,20 +10,20 @@ O projeto front-end para a plataforma Batteries é responsável por fornecer uma
 
 Você pode acessar o código e a documentação do projeto front-end no GitHub: https://github.com/danielcorreia-dev/batteries-project.
 
-## Setup
+## Tecnologias Utilizadas
 
-### Database 
+### B 
 
 
-Install PostgreSQL, available at https://www.postgresql.org/download.
+Instale PostgreSQL, disponível em https://www.postgresql.org/download.
 
 Recomenda-se também instalar o PgAdmin, uma ferramenta de administração para o PostgreSQL, disponível em https://www.pgadmin.org/download/. O PgAdmin fornece uma interface gráfica para gerenciar o banco de dados e executar consultas.
 
 ### .NET SDK 5.0
 
-Install .NET SDK 5, available at https://dotnet.microsoft.com/en-us/download/dotnet/5.0
+Instale .NET SDK 5, disponível em https://dotnet.microsoft.com/en-us/download/dotnet/5.0
 
-## Running
+## Como executar o projeto
 
-In Microsoft Visual Studio, press F5 (Debug) to start backend API.
+Em Microsoft Visual Studio, pressione F5 (Debug) para iniciar o backend API.
 
